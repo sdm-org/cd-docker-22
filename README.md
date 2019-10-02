@@ -7,7 +7,7 @@ Hackathon Starter
 **Live Demo**: https://hackathon-starter-2018.herokuapp.com
 
 Jump to [What's new?](https://github.com/sahat/hackathon-starter/blob/master/CHANGELOG.md)
-
+ 
 A boilerplate for **Node.js** web ap plications.
 
 If you have attended any hackathons in the past, then you know how much time it takes to
