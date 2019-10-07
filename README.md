@@ -30,7 +30,7 @@ if for example you are only interested in **Sign in with Google** authentication
 > — Steven Rueter
 
 > [**“I'm using it for a year now and many projects, it's an awesome boilerplate and the project is well maintained!”**](https://www.producthunt.com/tech/hackathon-starter#comment-228610)<br>
-> — Kevin Granger
+> — Kevin Granger 
 
 > **“Small world with Sahat's project. We were using his hackathon starter for our hackathon this past weekend and got some prizes. Really handy repo!”**<br>
 > — Interview candidate for one of the companies I used to work with.
